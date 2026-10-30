@@ -1,0 +1,22 @@
+{
+  "wheel_id": 528,
+  "structure": "umbrella",
+  "slug": "retainingwallsperth-108",
+  "project": "retaining-wall-contractors-perth-faq-e373b31c0f25e5f901b7b2cd0c",
+  "parent_t1_ref": "retainingwallsperth-153",
+  "node_role": "feeder",
+  "money_target": "retainingwallsperth.au",
+  "primary_kw": "retaining wall contractors perth faq",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-contractors-perth-faq-e373b31c0f25e5f901b7b2cd0c/",
+  "tier": "T2",
+  "writeback_nonce": "485fb583343c287b",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallsperth-153/",
+      "anchor": "retaining wall contractors perth explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
